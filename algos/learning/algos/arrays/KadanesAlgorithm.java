@@ -1,4 +1,4 @@
-package learning.algos;
+package learning.algos.learning.algos.arrays;
 
 public class KadanesAlgorithm {
     public static void main(String[] args) {
