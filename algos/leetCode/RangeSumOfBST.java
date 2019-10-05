@@ -7,7 +7,7 @@ import java.util.List;
 public class RangeSumOfBST {
 
     /*
-        URL: https://leetcode.com/problems/range-sum-of-bst/
+        jpURL: https://leetcode.com/problems/range-sum-of-bst/
      */
 
     public static void main(String[] args) {
