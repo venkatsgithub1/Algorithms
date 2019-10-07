@@ -21,7 +21,7 @@ public class BinarySearchRecursive {
     public static void main(String[] args) {
         int[] arr = new int[]{2, 4, 6, 8, 10, 11};
 
-        int number = 8;
+        int number = 20;
 
         System.out.println(number + " is present at position " + search(arr, number, 0, arr.length - 1) + " in the array");
     }
